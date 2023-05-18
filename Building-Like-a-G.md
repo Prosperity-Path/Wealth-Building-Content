@@ -1,0 +1,17 @@
+# Building like a G
+
+Behind the taboo of gangsters, there’s just people who are doing whatever it takes accomplish their objective, regardless of cultural norms and standards. There’s a lot of beauty in that ethos. Especially since adherence to cultural norms will yield average results. Instead of adhering to cultural norms, gangsters think for themselves. So if our objective is to create and monetize value as efficiently as possible, then we have to start by leaving the safety of precedent and embark on a first principles journey to derive the best approach.
+
+To start, we need to draw a distinction between value and monetizable value. Simply put, monetizable value is utility that someone with spendable budget would find enough utility in to pay for. Implicitly, someone having willingness to pay for a product that they haven’t made means they don’t have the skills or time to do it themselves. Here, it’s important to draw awareness to your competitive advantages that allow you to create value that people would pay for. Being able to build software is a clear competitive advantage, provided you understand monetization. 
+
+> As an anchor principle of monetization, you should think about removing noticeably more friction from customer lives than you add with your product. The difference between friction removed and added generally corresponds with how much someone is willing to pay. 
+
+Ideally, a product solves a pain point that occurs daily and fits seamlessly into a customer’s existing workflow. 
+
+So in working on the optimization problem of maximizing pain removed and minimizing friction added, it’s sensible to start by considering problems where you have an above average understanding of the pain. Inevitably, you’ll start by removing pain for yourself and a small number of similar customers and have to iterate through experiments to get close to solving the max-min friction problem for a wide customer base. In the experiments, the only measurable feedback that matters is how much customers are willing to pay. If they’re not willing to pay a material amount, then you adjust the product to remove more friction.
+
+In a modern digital world where people are saturated with different software solutions, the pain of adopting a new tool creates much more friction than people realize. Consequently, minimizing usage friction doesn’t get enough attention. To address this shortfall, Prosperity Path has treated the minimization of usage friction as a first class citizen. Meeting people where they’re at is such an important principle in building valuable products that we’ve based our PDK (Product Development Kit) around bringing value to people’s existing workflows. 
+
+As a starting point, building into existing workflows means building on top of the most widely accessible rich communication protocol in existence-- email. While building applications that serve value through email may feel like a technological regression for many people (especially UI builders), it’s a super efficient way to deliver magnetizable value to anyone on the internet. Of course, there’s a finite set of problems that can be solved with rich text, but a big part of our goal is to guide you to finding the best problem to work on that fits your skillset.
+
+Next, please check out Value-add Driven Testing and Development, which is a conceptual complement to the Prosperity Development Kit.
