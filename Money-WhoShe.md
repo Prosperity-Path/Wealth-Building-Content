@@ -1,0 +1,18 @@
+# Money: who she?
+
+Recall that 
+> money represents exchangeable value. Where value is anything with worth or usefulness to the possessor. 
+
+Along with this general definition of value, it’s worth noting that each of us finds utility in different things, so money has become necessary as a value normalization tool that enables trade. So when someone finds something valuable in another person’s possession, money is the tool that creates a common ground of perceived value in order to make an equitable exchange. 
+
+While an individual can, and often does, create value in isolation, an individual cannot create money alone. At a minimum, an individual must create something that someone else finds valuable, in order to exchange it for money. In reality, the process is never that simple because creating value is different from monetizing value. Actually, if your goal is to make money, you’re usually better off being effective at monetizing value than creating it. 
+
+In order to build and run an enterprise that makes money, you need value creators and value monetizors. Rarely can one person do both well, so most people find themselves in one of these two camps. If you’re a value creator, you likely have a set of skills that allow you to build things that the market finds valuable. But just because you have skills to build, doesn’t mean you have the understanding of what to build that’s both valuable and monetizable.
+
+Most people who consider themselves ‘product people’ have the skill of understanding how to build the right type of value that’s monetizable. They have to listen to the voices of customers, often times through value monetizors, in order to paint the right picture of requirements for the value creators to build. Even under the vigilance of these product people, tons of value gets created that isn’t monetizable. This effect is especially likely when value creators are leading the value creation process because they prefer to create what they find fulfilling instead of creating what’s best to monetize.
+
+Somewhat ironically, the existence of money incentivizes value monetizors to create a world of specialization where there’s a high number of builders whose main skill is creating a particular type of value but not selling (monetizing) it. So money allows the value monetizors to actually avoid creating something valuable to trade with, and instead capture money by brokering value created by a builder. Then, if making money were your goal, it would stand to reason that one should focus on specializing in monetizing existing value, instead of creating it.
+
+The inherent risk in being a value monetizor is that a critical mass of value creators figure out how to monetize their own value, and worse yet, construct a new system of value exchange that more evenly incentivizes value production. Given this threat, money has drifted from its original intent of creating a common ground for value exchange to being more about control for value monetizors. Accordingly, value monetization is primarily about access to those with money.
+
+If you’re here, it’s probably because you don’t have a ton of access to those with money and are more naturally a value creator than monetizor. By being an active participant in this community, you’ll help yourself and others erode the access problem. More importantly, we’re getting ready to jump into the more technical and action-oriented pieces of creating value to monetize instead of just creating value. Remember, builders are taught to build, not how to build to make money. You’ll have to keep this top of mind as you reframe your value creation energy. 
