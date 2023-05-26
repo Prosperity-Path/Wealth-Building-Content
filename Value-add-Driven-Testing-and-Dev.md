@@ -24,4 +24,4 @@ To ensure that value is being created by functionality, we’ve rallied around a
 
 * This piece isn’t critical in creating value, but it is a value multiplier with a little bit of a forethought, particularly for application dealing with data. With every single trigger, user input, and action, we receive information about the user. If you save all of these data in a thoughtful way, you can provide functionality to the user that let’s them know they’re receiving additional value from continued utilization. For instance, Turbo Tax saves all user inputs over the years and makes relevant recommendations that create a huge time savings for users.
 
-You’ll find that these questions are closely integrated into documentation and the [Product Development Kit](https://github.com/Prosperity-Path/PDK).
+You’ll find that these questions are closely integrated into documentation and the [Product Development Kit](https://github.com/Prosperity-Path/PDK). Further- to make everything more tangible- [Peace Pal](https://github.com/Prosperity-Path/Peace-Pal) is a demo application that includes example usage of the VaDTaD in its README.
