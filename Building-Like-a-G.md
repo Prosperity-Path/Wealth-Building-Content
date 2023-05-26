@@ -14,4 +14,4 @@ In a modern digital world where people are saturated with different software sol
 
 As a starting point, building into existing workflows means building on top of the most widely accessible rich communication protocol in existence-- email. While building applications that serve value through email may feel like a technological regression for many people (especially UI builders), it’s a super efficient way to deliver magnetizable value to anyone on the internet. Of course, there’s a finite set of problems that can be solved with rich text, but a big part of our goal is to guide you to finding the best problem to work on that fits your skillset.
 
-Next, please check out Value-add Driven Testing and Development, which is a conceptual complement to the Prosperity Development Kit.
+Next, please check out [Value-add Driven Testing and Development](Value-add-Driven-Testing-and-Dev.md), which is a conceptual complement to the Prosperity Development Kit.
